@@ -24,7 +24,7 @@ You agree not to:
 All content protected by copyright. No reproduction/distribution without written consent.
 
 ## 6. Privacy  
-Data practices described in our [Privacy Policy]
+Data practices described in our [Privacy Policy]#
 
 ## 7. Third-Party Content  
 AirNow API data subject to [AirNow Terms](https://www.airnowtech.org/privacy.cfm). Firebase usage follows [Google Terms](https://firebase.google.com/support/privacy).
